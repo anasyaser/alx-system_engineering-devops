@@ -1,0 +1,2 @@
+#!/bash/bin
+mkdir --mode=751 my_dir
