@@ -11,4 +11,6 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 6-third_line: Display the nth(e.g 3rd line) line of file.
 7-file: shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8-cwd_state: wirte the content of command ls -la to a file (overwrite if exist else create it).
+9-duplicate_last_line: duplicate last line for given file.
+
 
