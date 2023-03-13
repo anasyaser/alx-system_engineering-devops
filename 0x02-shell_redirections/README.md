@@ -8,4 +8,5 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 3-twofiles: Display the content of two files at once.
 4-lastlines: Display the last 10 lines of file.
 5-firstlines: Display the first 10 lines.
+6-third_line: Display the nth(e.g 3rd line) line of file.
 
