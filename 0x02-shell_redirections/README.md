@@ -9,4 +9,5 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 4-lastlines: Display the last 10 lines of file.
 5-firstlines: Display the first 10 lines.
 6-third_line: Display the nth(e.g 3rd line) line of file.
+7-file: shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
