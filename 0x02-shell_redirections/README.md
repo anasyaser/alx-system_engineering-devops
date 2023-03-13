@@ -14,3 +14,5 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 9-duplicate_last_line: duplicate last line for given file.
 10-no_more_js: Delete all java script files from current dir and subdirectory.
 11-directories: count all directory and sub-directories.
+12-newest_files: Display recent nth files.
+13-unique: print unique sorted lines of provided list of words.
