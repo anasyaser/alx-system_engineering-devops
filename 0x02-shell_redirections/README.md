@@ -19,4 +19,5 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 14-findhatword: grep lines that contain specific word.
 15-countthatword: return how many times of lines contain that word.
 16-whatsnext: Display line match pattern and nth lines after that line.
+17-hidethisword: Display lines that not contain that pattern.
 
