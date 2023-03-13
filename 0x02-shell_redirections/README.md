@@ -17,4 +17,5 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 12-newest_files: Display recent nth files.
 13-unique: print unique sorted lines of provided list of words.
 14-findhatword: grep lines that contain specific word.
+15-countthatword: return how many times of lines contain that word.
 
