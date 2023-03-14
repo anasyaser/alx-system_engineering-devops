@@ -21,3 +21,4 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 16-whatsnext: Display line match pattern and nth lines after that line.
 17-hidethisword: Display lines that not contain that pattern.
 18-letteronly: grep lines that start with letters only.
+19-AZ: replace all letters A and c to Z and e respectively.
