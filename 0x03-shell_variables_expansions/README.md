@@ -4,3 +4,4 @@ Fourth Project about Shell basics:
 2-path: Add to PATH.
 3-paths: Count number of paths.
 4-global_variables: Display environment variables
+5-local_variables: list all local and env var. and functions.
