@@ -22,3 +22,4 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 17-hidethisword: Display lines that not contain that pattern.
 18-letteronly: grep lines that start with letters only.
 19-AZ: replace all letters A and c to Z and e respectively.
+20-hiago: Delete all specific letters from the text.
