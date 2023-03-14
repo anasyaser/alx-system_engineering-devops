@@ -24,3 +24,4 @@ Third Project of Alx Scholarship, consiste of the following scripts:
 19-AZ: replace all letters A and c to Z and e respectively.
 20-hiago: Delete all specific letters from the text.
 21-reverse: revers characters of text.
+22-users_and_homes: Display only all users and corresponding HOME.
