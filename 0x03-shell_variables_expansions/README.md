@@ -6,3 +6,4 @@ Fourth Project about Shell basics:
 4-global_variables: Display environment variables
 5-local_variables: list all local and env var. and functions.
 6-create_local_variable: create local variable.
+7-create_global_variable: create global variable.
