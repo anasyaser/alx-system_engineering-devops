@@ -9,4 +9,4 @@ Fourth Project about Shell basics:
 7-create_global_variable: create global variable.
 8-true_knowledge: shell arithmetic(addition).
 9-divide_and_rule: shell arithmetic (divide).
-
+10-love_exponent_breath: shell arithmetic (exponent).
