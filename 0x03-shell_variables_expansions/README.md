@@ -10,3 +10,6 @@ Fourth Project about Shell basics:
 8-true_knowledge: shell arithmetic(addition).
 9-divide_and_rule: shell arithmetic (divide).
 10-love_exponent_breath: shell arithmetic (exponent).
+11-binary_to_decimel: convert from binary to decimel.
+12-combinations: creat a combination of two letters except oo.
+13-print_float: print number in float conversion.
