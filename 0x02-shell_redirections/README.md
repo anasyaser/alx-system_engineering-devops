@@ -1,4 +1,4 @@
-<title>Project: 0x02. Shell, I/O Redirections and filters</title>
+# Project: 0x02. Shell, I/O Redirections and filters
 
 <h2>Resources</h2>
 
@@ -86,7 +86,7 @@
 </div>
 </div>
 
-
+-------------------------------------------------------------------------------
 
 <h2> Tasks </h2>
 <h3> 
@@ -109,6 +109,8 @@
   <li>File: <code>0-hello_world</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3> 
   1. Confused smiley
 </h3>
@@ -127,6 +129,7 @@
   <li>File: <code>1-confused_smiley </code></li>
 </ul>
 
+-------------------------------------------------------------------------------
 
 <h3>
   2. Let's display a file
@@ -170,6 +173,8 @@
   <li>File: <code>2-hellofile</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   3. What about 2?
 </h3>
@@ -212,6 +217,8 @@
   <li>File: <code>3-twofiles</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   4. Last lines of a file
 </h3>
@@ -245,6 +252,8 @@
   <li>File: <code>4-lastlines</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3 class="panel-title">
   5. I'd prefer the first ones actually
 </h3>
@@ -275,15 +284,11 @@
   <li>File: <code>5-firstlines</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   6. Line #2
 </h3>
-
-<div>
-  <span class="label label-info">
-    mandatory
-  </span>
-</div>
 
 <p>Write a script that displays the third line of the file <code>iacta</code>.</p>
 
@@ -322,6 +327,8 @@
   <li>File: <code>6-third_line</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   7. It is a good file that cuts iron without making a noise
 </h3>
@@ -346,6 +353,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>7-file</code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   8. Save current state of directory
@@ -388,6 +397,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>8-cwd_state </code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   9. Duplicate last line
@@ -441,6 +452,8 @@
   <li>File: <code>9-duplicate_last_line </code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   10. No more javascript
 </h3>
@@ -489,6 +502,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>10-no_more_js </code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   11. Don't just count your directories, make your directories count
@@ -550,6 +565,8 @@
   <li>File: <code>11-directories</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   12. What’s new
 </h3>
@@ -598,6 +615,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>12-newest_files</code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   13. Being unique is better than being perfect
@@ -653,6 +672,8 @@
   <li>File: <code>13-unique</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   14. It must be in that file
 </h3>
@@ -674,6 +695,8 @@
   <li>File: <code>14-findthatword</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   15. Count that word
 </h3>
@@ -691,6 +714,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>15-countthatword</code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   16. What's next?
@@ -720,6 +745,8 @@
   <li>File: <code>16-whatsnext</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   17. I hate bins
 </h3>
@@ -747,6 +774,8 @@
   <li>File: <code>17-hidethisword</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   18. Letters only please
 </h3>
@@ -772,6 +801,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>18-letteronly</code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   19. A to Z
@@ -808,6 +839,8 @@
   <li>File: <code>20-hiago </code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   21. esreveR
 </h3>
@@ -824,6 +857,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>21-reverse </code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   22. DJ Cut Killer
@@ -932,6 +967,8 @@
   <li>File: <code>22-users_and_homes</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   23. Empty casks make the most noise
 </h3>
@@ -1028,6 +1065,8 @@
   <li>File: <code>100-empty_casks</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   24. A gif is worth ten thousand words
 </h3>
@@ -1097,6 +1136,8 @@
   <li>File: <code>101-gifs</code></li>
 </ul>
 
+-------------------------------------------------------------------------------
+
 <h3>
   25. Acrostic
 </h3>
@@ -1138,6 +1179,8 @@
   <li>Directory: <code>0x02-shell_redirections</code></li>
   <li>File: <code>102-acrostic</code></li>
 </ul>
+
+-------------------------------------------------------------------------------
 
 <h3>
   26. The biggest fan
