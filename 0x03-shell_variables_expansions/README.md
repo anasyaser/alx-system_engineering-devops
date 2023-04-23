@@ -357,6 +357,8 @@ julien@ubuntu:/tmp/0x03$
 -------------------------------------------------------------------------------
 
 <h3 class="panel-title">
+8. Every addition to true knowledge is an addition to human power
+</h3>
 
 <p>Write a script that prints the result of the addition of 128 with the value stored in the environment variable <code>TRUEKNOWLEDGE</code>, followed by a new line.</p>
 
@@ -373,6 +375,16 @@ julien@production-503e7013:~$
 <li>Directory: <code>0x03-shell_variables_expansions</code></li>
 <li>File: <code>8-true_knowledge</code></li>
 variables</li>
+</ul>
+
+-------------------------------------------------------------------------------
+<h3 class="panel-title">
+9. Divide and rule
+</h3>
+Write a script that prints the result of <code>POWER</code> divided by <code>DIVIDE</code>, followed by a new line.
+
+<ul>
+<li>POWER and DIVIDE are environment variables</li>
 </ul>
 
 <pre><code>julien@production-503e7013:~$ export POWER=42784
