@@ -1,0 +1,6 @@
+0 string SCHOOL School data
+!:mime School
+
+
+#compile it with (file -C -m <magic file>)
+#then use it after flag -m
