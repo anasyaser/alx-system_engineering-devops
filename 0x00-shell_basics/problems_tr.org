@@ -1,0 +1,24 @@
+|----+---------------------------+--------+-----+----------|
+| NO | Name                      | status | rev | note     |
+|----+---------------------------+--------+-----+----------|
+|  0 | [[../alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory][current working directory]] | Done   |   1 |          |
+|  1 | [[../alx-system_engineering-devops/0x00-shell_basics/1-listit][list it]]                   | Done   |   1 |          |
+|  2 | [[../alx-system_engineering-devops/0x00-shell_basics/2-bring_me_home][bring me home]]             | Done   |   1 |          |
+|  3 | [[../alx-system_engineering-devops/0x00-shell_basics/3-listfiles][list files]]                | Done   |   1 |          |
+|  4 | [[../alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles][list more files]]           | Done   |   1 |          |
+|  5 | [[../alx-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly][list files digit only]]     | Done   |   1 |          |
+|  6 | [[../alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory][first directory]]           | Done   |   1 |          |
+|  7 | [[../alx-system_engineering-devops/0x00-shell_basics/7-movethatfile][move that file]]            | Done   |   1 |          |
+|  8 | [[../alx-system_engineering-devops/0x00-shell_basics/8-firstdelete][first delete]]              | Done   |   1 |          |
+|  9 | [[../alx-system_engineering-devops/0x00-shell_basics/9-firstdirdeletion][first dired deletion]]      | Done   |   1 |          |
+| 10 | [[../alx-system_engineering-devops/0x00-shell_basics/10-back][back]]                      | Done   |   1 |          |
+| 11 | [[../alx-system_engineering-devops/0x00-shell_basics/11-lists][lists]]                     | Done   |   1 |          |
+| 12 | [[../alx-system_engineering-devops/0x00-shell_basics/12-file_type][file type]]                 | Done   |   1 |          |
+| 13 | [[../alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link][symbolic link]]             | Done   |   1 |          |
+| 14 | [[../alx-system_engineering-devops/0x00-shell_basics/14-copy_html][copy html]]                 | Done   |   1 |          |
+| 15 | [[../alx-system_engineering-devops/0x00-shell_basics/100-lets_move][lets move]]                 | Done   |   1 | Advanced |
+| 16 | [[../alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs][clean emacs]]               | Done   |   1 | Advanced |
+| 17 | [[../alx-system_engineering-devops/0x00-shell_basics/102-tree][tree]]                      | Done   |   1 | Advanced |
+| 18 | [[../alx-system_engineering-devops/0x00-shell_basics/103-commas][commas]]                    | Done   |   1 | Advanced |
+| 19 | [[../alx-system_engineering-devops/0x00-shell_basics/school.mgc][magic file]]                | Done   |   0 | Advanced |
+|----+---------------------------+--------+-----+----------|
