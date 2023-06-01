@@ -1,0 +1,33 @@
+** 0x02-shell, I/O redirections and filters
+
+|----+---------------------+--------+-----+----------|
+| No | Name                | status | rev | note     |
+|----+---------------------+--------+-----+----------|
+|  0 | hello world         | Done   |   1 |          |
+|  1 | confused smiley     | Done   |   1 |          |
+|  2 | hellofile           | Done   |   1 |          |
+|  3 | twofiles            | Done   |   1 |          |
+|  4 | lastlines           | Done   |   1 |          |
+|  5 | firstlines          | Done   |   1 |          |
+|  6 | third line          | Done   |   1 |          |
+|  7 | file                | Done   |   1 |          |
+|  8 | cwd state           | Done   |   1 |          |
+|  9 | duplicate last line | Done   |   1 |          |
+| 10 | no more js          | Done   |   1 |          |
+| 11 | directories         | Done   |   1 |          |
+| 12 | newest files        | Done   |   1 |          |
+| 13 | unique              | Done   |   1 |          |
+| 14 | findhatword         | Done   |   1 |          |
+| 15 | countthatword       | Done   |   1 |          |
+| 16 | whatsnext           | Done   |   1 |          |
+| 17 | hidethisword        | Done   |   1 |          |
+| 18 | letteronly          | Done   |   1 |          |
+| 19 | AZ                  | Done   |   1 |          |
+| 20 | hiago               | Done   |   1 |          |
+| 21 | reverse             | Done   |   1 |          |
+| 22 | users and homes     | Done   |   1 |          |
+| 23 |                     |        |   0 | Advanced |
+| 24 |                     |        |   0 | Advanced |
+| 25 |                     |        |   0 | Advanced |
+| 26 |                     |        |   0 | Advanced |
+|----+---------------------+--------+-----+----------|
