@@ -186,7 +186,11 @@ julien@ubuntu:/tmp/h$
 	<li>File: <code>4-empty</code></li>
     </ul>
 
+-------------------------------------------------------------------------------
+
 <h3 class="panel-title">
+5-execute
+</h3>
 <p>Write a script that adds execute permission to the owner of the file <code>hello</code>.</p>
 
 <ul>
