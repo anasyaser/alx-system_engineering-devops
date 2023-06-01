@@ -1,0 +1,24 @@
+** 0x01-shell_permissions
+
+|----+---------------------------+--------+-----+----------|
+| No | Name                      | status | rev | note     |
+|----+---------------------------+--------+-----+----------|
+|  0 | iam betty                 | Done   |   1 |          |
+|  1 | who am i                  | Done   |   1 |          |
+|  2 | groups                    | Done   |   1 |          |
+|  3 | new owner                 | Done   |   1 |          |
+|  4 | empty                     | Done   |   1 |          |
+|  5 | execute                   | Done   |   1 |          |
+|  6 | multiple permissions      | Done   |   1 |          |
+|  7 | everybody                 | Done   |   1 |          |
+|  8 | james bond                | Done   |   1 |          |
+|  9 | john doe                  | Done   |   1 |          |
+| 10 | mirror permissions        | Done   |   1 |          |
+| 11 | directories permissions   | Done   |   1 |          |
+| 12 | directory permissions     | Done   |   1 |          |
+| 13 | change group              | Done   |   1 |          |
+| 14 | change owner and group    | Done   |   0 | Advanced |
+| 15 | symbolic link permissions | Done   |   0 | Advanced |
+| 16 | if only                   | Done   |   0 | Advanced |
+| 17 | star wars                 | Done   |   0 | Advanced |
+|----+---------------------------+--------+-----+----------|
