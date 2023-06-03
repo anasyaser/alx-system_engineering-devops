@@ -1,0 +1,24 @@
+** 0x03-shell_variables_expansions
+
+|----+-------------------------+--------+-----+----------|
+| No | Name                    | status | rev | note     |
+|----+-------------------------+--------+-----+----------|
+|  0 | alias                   | Done   |   1 |          |
+|  1 | hello you               | Done   |   1 |          |
+|  2 | path                    | Done   |   1 |          |
+|  3 | paths                   | Done   |   1 |          |
+|  4 | global variables        | Done   |   1 |          |
+|  5 | local variables         | Done   |   1 |          |
+|  6 | create local variables  | Done   |   1 |          |
+|  7 | create global variables | Done   |   1 |          |
+|  8 | true knowledge          | Done   |   1 |          |
+|  9 | divide and rule         | Done   |   1 |          |
+| 10 | love exponent breath    | Done   |   1 |          |
+| 11 | binary to decimel       | Done   |   1 |          |
+| 12 | combinations            | Done   |   1 |          |
+| 13 | print float             | Done   |   1 |          |
+| 14 |                         | Done   |   0 | Advanced |
+| 15 |                         |        |   0 | Advanced |
+| 16 |                         |        |   0 | Advanced |
+| 17 |                         |        |   0 | Advanced |
+|----+-------------------------+--------+-----+----------|
