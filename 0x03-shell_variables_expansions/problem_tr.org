@@ -17,8 +17,8 @@
 | 11 | binary to decimel       | Done   |   1 |          |
 | 12 | combinations            | Done   |   1 |          |
 | 13 | print float             | Done   |   1 |          |
-| 14 |                         | Done   |   0 | Advanced |
-| 15 |                         |        |   0 | Advanced |
-| 16 |                         |        |   0 | Advanced |
+| 14 | decimal to hexadecimal  | Done   |   0 | Advanced |
+| 15 | rot13                   | Done   |   0 | Advanced |
+| 16 | df                      |        |   0 | Advanced |
 | 17 |                         |        |   0 | Advanced |
 |----+-------------------------+--------+-----+----------|
