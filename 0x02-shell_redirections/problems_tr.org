@@ -26,8 +26,8 @@
 | 20 | hiago               | Done   |   1 |          |
 | 21 | reverse             | Done   |   1 |          |
 | 22 | users and homes     | Done   |   1 |          |
-| 23 |                     |        |   0 | Advanced |
-| 24 |                     |        |   0 | Advanced |
+| 23 | empty casks         | Done   |   0 | Advanced |
+| 24 | gifs                |        |   0 | Advanced |
 | 25 |                     |        |   0 | Advanced |
 | 26 |                     |        |   0 | Advanced |
 |----+---------------------+--------+-----+----------|
