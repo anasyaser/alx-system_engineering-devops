@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Kill another process without kill,killall commands
+pkill -f "bash ./4-to_infinity_and_beyond "
