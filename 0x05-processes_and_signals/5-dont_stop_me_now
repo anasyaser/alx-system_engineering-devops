@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kill another process using kill command
+PID=$(pgrep -f "bash ./4-to_infinity_and_beyond")
+kill "$PID"
