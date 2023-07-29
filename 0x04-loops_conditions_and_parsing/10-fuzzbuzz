@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# FizzBuzz :)
+
+CNT=1
+
+while [ "$CNT" -le 100 ]; do
+    if [ $(( "$CNT" % 5 )) -eq 0 ] && [ $(( "$CNT" % 3 )) -eq 0 ]
+    then
+	echo "FizzBuzz"
+    elif [ $(( "$CNT" % 5 )) -eq 0 ]
+    then
+	echo "Buzz"
+    elif [ $(( "$CNT" % 3 )) -eq 0 ]
+    then
+	echo "Fizz"
+    else
+	echo "$CNT"
+    fi
+    (( CNT++ ))
+done
