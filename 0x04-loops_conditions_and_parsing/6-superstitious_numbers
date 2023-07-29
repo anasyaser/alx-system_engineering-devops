@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Display from 1 to 20 and some special messages for some iterations
+
+COUNT="1"
+
+while [ $COUNT -le 20 ]; do
+    echo "$COUNT"
+    if [ $COUNT -eq 4 ]
+    then
+        echo "bad luck from China"
+    elif [ $COUNT -eq 9 ]
+    then
+      	echo "bad luck from Japan"
+    elif [ $COUNT -eq 17 ]
+    then
+	echo "bad luck from Italy"
+    fi
+    (( COUNT++ ))
+done
