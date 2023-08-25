@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# create listening port in my localhost
+nc -l 98
