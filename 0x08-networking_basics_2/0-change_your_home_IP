@@ -2,7 +2,7 @@
 # change localhost and others
 
 cp /etc/hosts ~/hosts.new
-echo -e "172.0.0.2\tlocalhost" > ~/hosts.new
+echo -e "127.0.0.2\tlocalhost" > ~/hosts.new
 echo -e "8.8.8.8\tfacebook.com" >> ~/hosts.new
 sudo cp ~/hosts.new /etc/hosts
 rm ~/hosts.new
