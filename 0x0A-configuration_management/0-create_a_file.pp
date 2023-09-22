@@ -1,9 +1,8 @@
-# Contain file in /tmp with some customizations
-
-file { '/tmp/school':
-  ensure  => 'file',
-  owner   => 'www-data',
-  group   => 'www-data',
-  mode    => '0744',
+# create a file in /tmp directory
+file {'/tmp/school':
+  ensure => 'file',
+  mode => '0744',
+  owner => 'www-data',
+  group => 'www-data',
   content => 'I love Puppet',
 }
