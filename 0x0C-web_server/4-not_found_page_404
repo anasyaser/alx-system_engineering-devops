@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
+# Hande error page
+#!/usr/bin/env bash
 # using redirection
 apt-get update -y
 apt-get install nginx -y
 echo "Hello World!" > /var/www/html/index.html
 sed -i "/listen 80 default_server;/a rewrite ^/redirect_me https://google.com permanent;" /etc/nginx/sites-enabled/default
+echo "Ceci n'est pas une page" > 404_error.html
+sed -i "/"
 service nginx restart
