@@ -6,6 +6,6 @@ apt-get update -y
 apt-get install nginx -y
 echo "Hello World!" > /var/www/html/index.html
 sed -i "/listen 80 default_server;/a rewrite ^/redirect_me https://google.com permanent;" /etc/nginx/sites-enabled/default
-echo "Ceci n'est pas une page" > 404_error.html
-sed -i "/"
+echo "Ceci n'est pas une page" > /usr/share/nginx/html/404_error.html
+sed -i 's/=404/=404_error =404/g' /etc/nginx/sites-enabled/default
 service nginx restart
