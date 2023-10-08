@@ -1,2 +1,17 @@
 #!/usr/bin/env bash
 # Install and configure my load balancer server
+apt-get -y update
+apt-get -y install haproxy
+echo "
+frontend hbnb_school
+	 bind *:80
+	 mode http
+	 default_backend hbnb_servers
+
+backend hbnb_servers
+	balance roundrobin
+	mode http
+	server web-01 54.197.110.58
+	server web-02 100.26.246.11
+" >> /etc/haproxy/haproxy.cfg
+service haproxy restart
