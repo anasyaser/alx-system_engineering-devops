@@ -4,7 +4,7 @@ if [ "$2" ]
 then
     SUB=$2
 else
-    SUB="www web-01 web-02 lb-01"
+    SUB="www lb-01 web-01 web-02"
 fi
 
 for i in $SUB;do
