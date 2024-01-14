@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# world wide web
+if [ "$2" ]
+then
+    SUB=$2
+else
+    SUB="www lb-01 web-01 web-02"
+fi
+
+for i in $SUB;do
+    DOMAIN="$i.$1"
+    echo -n "The subdomain $i is a "
+    dig "$DOMAIN" | grep -A1 "ANSWER SECTION" | tail -n 1 | awk '{print $4 " record and points to " $5}'
+done
