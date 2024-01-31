@@ -10,7 +10,7 @@ if __name__ == "__main__":
         sys.argv[1])
     user_info = request.get(url_1).json()
     user_tasks = request.get(url_2).json()
-    employee_name = user_info["name"]
+    employee_name = user_info["username"]
     rows = []
 
     for task in user_tasks:
