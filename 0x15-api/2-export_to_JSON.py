@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """Export to JSON"""
+import json
 import requests
 import sys
-import json
+
 
 if __name__ == "__main__":
     request = requests.Session()
