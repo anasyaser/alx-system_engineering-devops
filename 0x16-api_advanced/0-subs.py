@@ -12,7 +12,6 @@ def number_of_subscribers(subreddit):
 
     response = requests.get(
         url,
-        allow_redirects=False,
         headers={"User-Agent": "Custom"},
     )
 
