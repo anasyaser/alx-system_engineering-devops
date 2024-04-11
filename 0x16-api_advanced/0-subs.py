@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""Fetch api subscripbers for subreddit"""
+"""
+Fetch api subscripbers for subreddit
+"""
+
 import requests
 
 
