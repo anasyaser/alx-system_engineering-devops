@@ -12,6 +12,7 @@ def top_ten(subreddit):
 
     response = requests.get(
         url,
+        allow_redirects=False,
         headers={"User-Agent": "custom"},
         params={"limit": 10},
     )
